@@ -1,13 +1,12 @@
-
 from business_rules import (
-    calculate_rental_cost,
-    get_rental_discount,
     calculate_quote,
-    requires_deposit,
-    needs_inspection,
-    total_quoted,
-    largest_rental,
+    calculate_rental_cost,
     format_rental_line,
+    get_rental_discount,
+    largest_rental,
+    needs_inspection,
+    requires_deposit,
+    total_quoted,
 )
 
 
